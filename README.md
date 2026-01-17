@@ -1,7 +1,5 @@
 # Joshua Walcott
-Hello all!
-
-I'm a software programmer with a strong passion for games and web applications.
+Hello all! I'm a software programmer with a strong passion for games and web applications.
 
 I’m well-versed in… 
 
@@ -11,9 +9,7 @@ I’m well-versed in…
 
 [![other langs](https://skillicons.dev/icons?i=c,cpp,java,py,bash)](https://skillicons.dev)
 
-[![godot](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
-
-[![misc](https://skillicons.dev/icons?i=blender,photoshop)](https://skillicons.dev)
+[![misc](https://skillicons.dev/icons?i=blender,godot,photoshop)](https://skillicons.dev)
 
 and am currently learning…
 
