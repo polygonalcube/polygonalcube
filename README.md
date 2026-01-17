@@ -1,18 +1,18 @@
 # Joshua Walcott
 Hello all! I'm a software programmer with a strong passion for games and web applications.
 
-I’m well-versed in… 
+I’m well-versed in…
 
-[![unity](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
+<img src="https://joshuawalcott.site/images/skill-icons/CS.svg" alt="img" width="32"><img src="https://joshuawalcott.site/images/skill-icons/Unity-Dark.svg" alt="img" width="32">
 
-[![web](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,postgres,sqlite)](https://skillicons.dev)
+<img src="https://joshuawalcott.site/images/skill-icons/HTML.svg" alt="img" width="32"><img src="https://joshuawalcott.site/images/skill-icons/CSS.svg" alt="img" width="32"><img src="https://joshuawalcott.site/images/skill-icons/JavaScript.svg" alt="img" width="32"><img src="https://joshuawalcott.site/images/skill-icons/TypeScript.svg" alt="img" width="32"><img src="https://joshuawalcott.site/images/skill-icons/NodeJS-Dark.svg" alt="img" width="32"><img src="https://joshuawalcott.site/images/skill-icons/PostgreSQL-Dark.svg" alt="img" width="32"><img src="https://joshuawalcott.site/images/skill-icons/SQLite.svg" alt="img" width="32">
 
-[![other langs](https://skillicons.dev/icons?i=c,cpp,java,py,bash)](https://skillicons.dev)
+<img src="https://joshuawalcott.site/images/skill-icons/C.svg" alt="img" width="32"><img src="https://joshuawalcott.site/images/skill-icons/CPP.svg" alt="img" width="32"><img src="https://joshuawalcott.site/images/skill-icons/Java-Dark.svg" alt="img" width="32"><img src="https://joshuawalcott.site/images/skill-icons/Python-Dark.svg" alt="img" width="32"><img src="https://joshuawalcott.site/images/skill-icons/Bash-Light.svg" alt="img" width="32">
 
-[![misc](https://skillicons.dev/icons?i=blender,godot,photoshop)](https://skillicons.dev)
+<img src="https://joshuawalcott.site/images/skill-icons/Blender-Light.svg" alt="img" width="32"><img src="https://joshuawalcott.site/images/skill-icons/Godot-Light.svg" alt="img" width="32"><img src="https://joshuawalcott.site/images/skill-icons/Photoshop.svg" alt="img" width="32">
 
 and am currently learning…
 
-[![learning](https://skillicons.dev/icons?i=react,unreal)](https://skillicons.dev)
+<img src="https://joshuawalcott.site/images/skill-icons/React-Dark.svg" alt="img" width="32"><img src="https://joshuawalcott.site/images/skill-icons/UnrealEngine.svg" alt="img" width="32">
 
 As an aside, those pinned "ShaderLab" repositories are Unity projects.
